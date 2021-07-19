@@ -2,6 +2,7 @@
 - 👀 I’m interested in ... competative programming 
 - 🌱 I’m currently learning ... c/c++
 - 💞️ I’m looking to collaborate on ... AI
+- 🔥 WEB DEVELOPMENT 
 
 
 <!---
