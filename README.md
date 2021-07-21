@@ -8,6 +8,9 @@
 - 💞️ I’m looking to collaborate on ... AI
 - 🔥 WEB DEVELOPMENT 
 
+<!-- in short tech entusiast with passion for web development means username in below README.md -->
+[![Dhruva's github stats](https://github-readme-stats.vercel.app/api?username=dhruvaop&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+
 
 <!---
 dhruvaop/dhruvaop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
