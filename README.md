@@ -14,14 +14,14 @@ dhruvaop/dhruvaop is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/DhruvaBhattach2" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/" />][linkedin]
-<br />
-<!-- Optional if you have blogs -->
+[website]: https://google.com
+[twitter]: https://twitter.com/DhruvaBhattach2
+[linkedin]: https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/
+
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
-[website]: https://google.com
-[twitter]: https://twitter.com/DhruvaBhattach2
-[linkedin]: https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/
+<a href="https://github.com/USERNAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=light&hide_langs_below=1" />
+</a>
