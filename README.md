@@ -14,7 +14,7 @@ dhruvaop/dhruvaop is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />][website]
+[<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
-[website]: https://google.com
+[facebook]: https://www.facebook.com/dhruva130102/
 [twitter]: https://twitter.com/DhruvaBhattach2
 [linkedin]: https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/
 
