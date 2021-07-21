@@ -22,6 +22,6 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
-<a href="https://github.com/USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=light&hide_langs_below=1" />
+<a href="https://github.com/dhruvaop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvaop&theme=light&hide_langs_below=1" />
 </a>
