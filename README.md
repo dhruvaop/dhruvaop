@@ -5,14 +5,23 @@
 ## Hi <developers/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/">Dhruva Bhattacharya</a> 👨‍🎓 and 👨‍💻
 
 
-
+## About Me ✍
+I'm Dhruva Bhattacharya pursuing Computer Science Engineering.
+passionate in learning Etical Hacking and Cyber Security.
+I'm a quick and passionate learner and Characterized as a bridge-builder able to quickly build strong and effective problem-solving skills.I always passionate about understanding the core concepts behind different popular Technological Fields.
+I think no matter how hard the past is, but make you present a special one because you can't go back and change the beginning but you can start where you are and always bring a change in yourself begin again...
+and try to be happy in your life I believe every day is new day to be more productive and charge up to acquire new skills chance to begin again and be a better version of myself.
 [![Website](https://img.shields.io/badge/2🌟coder-CodeChef-green?style=flat-square)](https://google.com)
 
+- 🔭 I’m currently working on ... Self
+- 🌱 I’m currently learning to manage my time and be productive.
 - 👋 Hi, I’m DHRUVA BHATTACHARYA
 - 👀 I’m interested in ... competative programming 
 - 🌱 I’m currently learning ... c/c++
 - 💞️ I’m looking to collaborate on ... Open Source and AI related Project
-- 🔥 WEB DEVELOPMENT 
+- 🔥 WEB DEVELOPMENT
+- - 😄 Pronouns: ...He/Him
+
 
 <!-- in short tech entusiast with passion for web development means username in below README.md -->
 [![Dhruva's github stats](https://github-readme-stats.vercel.app/api?username=dhruvaop&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
