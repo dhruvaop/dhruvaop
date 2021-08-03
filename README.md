@@ -75,10 +75,9 @@ I am an Enginnering student not from any IIT's / NIT's. But targeting some big M
 ## 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Finding new opportunities
-</b> 😊 💜</em>
-<div align="left">
-<a href="<div align="left">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Finding new opportunities</b> 😊 💜</em>
+<div align="centre
+<a href="<div align="centre">
                             
 <a href="https://github.com/dhruvaop" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
