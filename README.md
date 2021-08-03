@@ -49,8 +49,7 @@ You can click the Preview link to take a look at your changes.
 <img align='left' src='https://media.giphy.com/media/3ohze15TQsHnWxQfm0/giphy.gif' width='250"'>
 I am an Enginnering student not from any IIT's / NIT's. But targeting some big MNC's
 
-<br/>
-<br/>
+
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1280px-AWS_Simple_Icons_AWS_Cloud.svg.png"></code>
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://play-movies-with-dhruva.netlify.app/)
