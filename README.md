@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" height="200%" alt="Coder" class="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"  alt="Coder" class="center">
 
 
 
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools :computer:
 
-<img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
+<img align='left' src='https://media.giphy.com/media/3ohze15TQsHnWxQfm0/giphy.gif' width='250"'>
 As we all know that under engineering, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time.
 
 
