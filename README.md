@@ -55,7 +55,7 @@ I am an Enginnering student not from any IIT's / NIT's. But targeting some big M
 [<img align="left" alt="dhruva | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/dhruva130102)
 [<img align="left" alt="dhruva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/DhruvaBhattach2)
 [<img align="left" alt="dhruva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/)
-[<img align="left" alt="dhruva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />(https://www.instagram.com/bhattacharyadhruva)
+[<img align="left" alt="dhruva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/bhattacharyadhruva)
 </a>
 
 <br />
