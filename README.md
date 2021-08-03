@@ -20,7 +20,7 @@ and try to be happy in your life I believe every day is new day to be more produ
 - 🌱 I’m currently learning ... c/c++
 - 💞️ I’m looking to collaborate on ... Open Source and AI related Project
 - 🔥 WEB DEVELOPMENT
-- - 😄 Pronouns: ...He/Him
+- 😄 Pronouns: ...He/Him
 
 
 <!-- in short tech entusiast with passion for web development means username in below README.md -->
@@ -54,8 +54,38 @@ I am an Enginnering student not from any IIT's / NIT's. But targeting some big M
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
+
+##
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+916393308725) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<div align="center">
+<a href="<div align="center">
+                            
+<a href="https://github.com/Amankesarwani2202" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/~amankesarwani" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+<br/>  
+
+
+<p align="center"> 
+ <b> Can you break this count?</b><br>
+  <img src="https://profile-counter.glitch.me/AmanKesarwani2202/count.svg" />
+</p>
+
+
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+<a href="https://github.com/Amankesarwani2202"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+
 <br />
-<br />
+
 
  
 
