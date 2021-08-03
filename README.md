@@ -1,5 +1,4 @@
-<img align='centre' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  width="100%" height="100%"  alt="Coder" class="center">
-
+<img align='centre' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  width="200"   alt="Coder" class="center">
 
 
 ## Hi <developers/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/">Dhruva Bhattacharya</a> 👨‍🎓 and 👨‍💻
