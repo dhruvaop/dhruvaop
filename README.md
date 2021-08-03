@@ -58,14 +58,14 @@ I am an Enginnering student not from any IIT's / NIT's. But targeting some big M
 
 ## :Technology:
 
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+916393308725) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/fpO7QkiPMFKSmdupRD/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+917223089620) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 <div align="center">
 <a href="<div align="center">
                             
-<a href="https://github.com/Amankesarwani2202" target="_blank">
+<a href="https://github.com/dhruvaop" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/~amankesarwani" target="_blank">
+<a href="https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/ target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
