@@ -25,12 +25,18 @@ and try to be happy in your life I believe every day is new day to be more produ
 <!-- in short tech entusiast with passion for web development means username in below README.md -->
 [![Dhruva's github stats](https://github-readme-stats.vercel.app/api?username=dhruvaop&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-## ❤ Visitors Count 🗠
+## ❤ Visitors Count 🗠:
 <p align = "center">
   <img src="https://profile-counter.glitch.me/dhruvaop/count.svg" />
 </p>
 
 <!---img src="https://profile-counter.glitch.me/{USER_NAME}/count.svg" /--->
+## 🔥 My contribution:
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvaop&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+</p>
 
 
 <!---
