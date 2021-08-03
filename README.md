@@ -117,7 +117,8 @@ I am an Enginnering student not from any IIT's / NIT's. But targeting some big M
 <a href="https://github.com/dhruvaop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvaop&theme=light&hide_langs_below=1" />
 </a>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
+![](https://github.com/Nitesh-thapliyal/dhruvaop/blob/main/footer.png)
+
+![](https://visitor-badge.glitch.me/badge?page_id=dhruvaop.dhruvaop)
 
 <h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
