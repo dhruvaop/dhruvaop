@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200%" height="500%">
 
-## Hello <developers/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/">Dhruva Bhattacharya</a> 👨‍💻
+Dhruva Bhattacharya</a> 👨‍💻
 
-<h1 align="center">Hi, I'm Dhruva Bhattacharya</h1>
+## Hello <developers/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/"><h1 align="center">Hi, I'm Dhruva Bhattacharya👨‍💻</h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h3 align="center">A passionate tech enthusiast from India</h3>
 <h3 align="center"> https://rutuj-runwal.github.io/MySite/ </h3>
