@@ -106,3 +106,4 @@ I am an Enginnering student not from any IIT's / NIT's. But targeting some big M
 <a href="https://github.com/dhruvaop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvaop&theme=light&hide_langs_below=1" />
 </a>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
