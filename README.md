@@ -25,7 +25,8 @@ You can click the Preview link to take a look at your changes.
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Rutuj-Runwal)](https://github.com/dhruvaop)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/dhruvaop)](https://github.com/dhruvaop) 
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/dhruvaop)](https://github.com/dhruvaop)
+[![NodeJs](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/dhruvaop)](https://github.com/dhruvaop)
+[![Angular](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/dhruvaop)](https://github.com/dhruvaop)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Rutuj-Runwal)](https://github.com/dhruvaop) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Rutuj-Runwal)](https://github.com/dhruvaop) 
