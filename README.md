@@ -54,12 +54,15 @@ I am an Enginnering student not from any IIT's / NIT's. But targeting some big M
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 
+
+
+
 <img align='right' src="https://media.giphy.com/media/fpO7QkiPMFKSmdupRD/giphy.gif" width="180">
 
 ## 
 
 
-<img src="https://media.giphy.com/media/fpO7QkiPMFKSmdupRD/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+917223089620) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+917223089620) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 <div align="center">
 <a href="<div align="center">
                             
