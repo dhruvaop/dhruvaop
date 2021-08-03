@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="100%"  alt="Coder" class="center">
+<img align='centre' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  width="100%" height="100%"  alt="Coder" class="center">
 
 
 
