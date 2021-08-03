@@ -33,10 +33,12 @@ and try to be happy in your life I believe every day is new day to be more produ
 <!---img src="https://profile-counter.glitch.me/{USER_NAME}/count.svg" /--->
 ## 🔥 My contribution:
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvaop&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
+  <a>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvaop&theme=dark&hide_border=true"/>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
+<br/>  
 
 
 <!---
