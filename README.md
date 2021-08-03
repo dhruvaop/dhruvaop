@@ -27,8 +27,10 @@ and try to be happy in your life I believe every day is new day to be more produ
 
 ## ❤ Visitors Count 🗠
 <p align = "center">
-  <img src="https://profile-counter.glitch.me/Rutuj-Runwal/count.svg" />
+  <img src="https://profile-counter.glitch.me/dhruvaop/count.svg" />
 </p>
+
+<!---img src="https://profile-counter.glitch.me/{USER_NAME}/count.svg" /--->
 
 
 <!---
