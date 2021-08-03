@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="200%" height="500%">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200%" height="500%">
 ### Hi, I'm Dhruva Bhattacharya<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Website](https://img.shields.io/badge/2🌟coder-CodeChef-green?style=flat-square)](https://google.com)
