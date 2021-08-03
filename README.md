@@ -1,7 +1,7 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="162px" height="150px">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200px" height="200px">
 
 
-## Hi <�developers/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://linkedin.com/in/~amankesarwani">Aman Kesarwani</a> 👨‍🎓
+## Hi <developers/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/">Dhruva Bhattacharya</a> 👨‍🎓 and 👨‍💻
 
 
 
