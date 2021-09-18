@@ -124,9 +124,7 @@ I am an Enginnering student not from any IIT's / NIT's. But targeting some big M
 </a>
                                                                                                                                   
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/Ayan-thecodeking/ayan-thecodeking/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+![snake gif](https://github.com/dhruvaop/dhruvaop/blob/output/github-contribution-grid-snake.gif)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dhruvaop.dhruvaop)
 
