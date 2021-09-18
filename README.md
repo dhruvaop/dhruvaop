@@ -123,7 +123,7 @@ I am an Enginnering student not from any IIT's / NIT's. But targeting some big M
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvaop&theme=light&hide_langs_below=1" />
 </a>
                                                                                                                                   
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+## Watch a 🐍 eating my contribution graph
 ![snake gif](https://github.com/dhruvaop/dhruvaop/blob/output/github-contribution-grid-snake.gif)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dhruvaop.dhruvaop)
