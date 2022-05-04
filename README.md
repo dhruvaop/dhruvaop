@@ -6,7 +6,7 @@
 
 ## About Me ✍
 I'm Dhruva Bhattacharya pursuing Computer Science Engineering.
-passionate in learning Etical Hacking and Cyber Security.
+passionate in learning Ethical Hacking and Cyber Security.
 I'm a quick and passionate learner and Characterized as a bridge-builder able to quickly build strong and effective problem-solving skills.I always passionate about understanding the core concepts behind different popular Technological Fields.
 I think no matter how hard the past is, but make you present a special one because you can't go back and change the beginning but you can start where you are and always bring a change in yourself begin again...
 and try to be happy in your life I believe every day is new day to be more productive and charge up to acquire new skills chance to begin again and be a better version of myself.
