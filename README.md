@@ -129,3 +129,13 @@ I am an Enginnering student not from any IIT's / NIT's. But targeting some big M
 ![](https://visitor-badge.glitch.me/badge?page_id=dhruvaop.dhruvaop)
 
 <h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
+                  
+ <center>
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center"><img src="https://metrics.lecoq.io/dhruvaop" alt="Github Metrics"></p>
+
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+</center>
+  
+---
