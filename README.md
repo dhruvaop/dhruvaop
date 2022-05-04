@@ -1,4 +1,4 @@
-<img align='centre' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  width="200%" height="500%"   alt="Coder" class="center">
+<img align='centre' src="https://user-images.githubusercontent.com/77020164/153806717-dff02c3c-e022-4af5-8140-abc022be9c02.png"  width="200%" height="500%"   alt="Coder" class="center">
 
 
 ## Hi <developers/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/">Dhruva Bhattacharya</a> 👨‍🎓 and 👨‍💻
