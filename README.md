@@ -100,7 +100,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dhruvaop.dhruvaop)
 
-<h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
+
                   
  <center>
 <h2 align="center">GitHub Stats</h2>
