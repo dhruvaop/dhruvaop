@@ -105,7 +105,7 @@ You can click the Preview link to take a look at your changes.
  <center>
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center"><img src="https://metrics.lecoq.io/dhruvaop" alt="Github Metrics"></p>
+![Metrics](https://metrics.lecoq.io/dhruvaop?template=classic&languages=1&people=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 </center>
