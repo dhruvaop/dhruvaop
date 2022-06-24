@@ -84,24 +84,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<p align="center">
-  <a>
-   <img height="180" width="160" src="https://github.com/dhruvaop/dhruvaop/blob/main/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvaop&theme=dark&hide_border=true"/>
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/dhruvaop/blob/main/right.png">
-</p>
-<br/>  
-
-<h2><summary align="center">Github Stats 📈</summary></h2>
-<p align="center">
-<img align="center" src="https://newgithub-readme-stats.vercel.app/api?username=dhruvaop&show_icons=true&count_private=true&theme=radical">
-</p>
-<br>
-<img align="left" height="300" width="300" src="https://github.com/dhruvaop/dhruvaop/blob/main/cool2.gif">
-<br/>
-
-
-
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
