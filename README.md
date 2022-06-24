@@ -101,13 +101,15 @@ I am an Enginnering student not from any IIT's / NIT's. But targeting some big M
 
 
 
-## Connect with me:
-[<img align="left" alt="dhruva | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/dhruva130102)
-[<img align="left" alt="dhruva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/DhruvaBhattach2)
-[<img align="left" alt="dhruva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/)
-[<img align="left" alt="dhruva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/bhattacharyadhruva)
-</a>
-<br />
+## ✨Connect with me :
+<p align="left">
+<a href="https://www.linkedin.com/in/dhruva-bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
+<a href="https://twitter.com/DhruvaBhattach2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kinshuk_1729" height="30" width="40" /></a>
+<a href="https://www.facebook.com/dhruva130102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bhattacharyadhruva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insane_engineer_1729" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dhruva_130102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="kinshuk2002_king" height="30" width="40" /></a>
+<a href="https://leetcode.com/dhruvabhattacharya130102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kinshuk-code-1729" height="30" width="40" /></a>
+</p>
 
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
