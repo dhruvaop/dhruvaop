@@ -48,7 +48,7 @@ and try to be happy in your life I believe every day is new day to be more produ
 dhruvaop/dhruvaop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200%" height="500%"   alt="Coder" class="center">
+>
 
 
 
