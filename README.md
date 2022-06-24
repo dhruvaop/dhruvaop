@@ -4,7 +4,7 @@
 <a href="https://www.buymeacoffee.com/dhruvabhatj" target="_blank"><img align='centre' src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
   </centre>
 
-## Hi <developers/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/">Dhruva Bhattacharya</a> 👨‍🎓 and 👨‍💻
+## Hi <developers/>! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/wave.gif" width="29px">, I am <a href="https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/">Dhruva Bhattacharya</a> 👨‍🎓 and 👨‍💻
 
 
 ## About Me ✍
@@ -116,5 +116,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 </center>
+
+<p align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"></p>
   
 ---
