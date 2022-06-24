@@ -77,13 +77,14 @@ You can click the Preview link to take a look at your changes.
 <!--END_SECTION:badges-->
 
 
- <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
- <p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"></p>
+<h2> <summary align="center"> GitHub Trophies 🏆</summary></h2>
+<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"></p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=dhruvaop&theme=gruvbox"/>
   </a>
 </p>
+
 
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
