@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:badges-->
 
-[![AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://images.credly.com/size/110x110/images/ead0ef07-6071-4c96-a79f-27bb32c4be93/AWS-Academy-Graduate-Badge-Foundational.png)](https://www.credly.com/badges/1f9d0fdc-a522-4208-9c06-85e6a1c3f9a7/public_url "AWS Academy Graduate - AWS Academy Machine Learning Foundations")
+[![AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://images.credly.com/size/110x110/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png)](https://www.credly.com/badges/1f9d0fdc-a522-4208-9c06-85e6a1c3f9a7/public_url "AWS Academy Graduate - AWS Academy Machine Learning Foundations")
 [![Introduction to IoT](https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](https://www.credly.com/badges/7a8b1b86-d978-48cd-9b9c-52d563051384/public_url "Introduction to IoT")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/717c6e54-8452-4399-b065-8640f076b0f9/public_url "Introduction to Cybersecurity")
 [![Celonis Foundations](https://images.credly.com/size/110x110/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png)](https://www.credly.com/badges/981e803b-b007-4a23-b11a-a7fbd14da1c1/public_url")
