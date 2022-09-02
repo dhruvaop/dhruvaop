@@ -21,8 +21,8 @@ and try to be happy in your life I believe every day is new day to be more produ
 
 ### _**My Blogs**_:
 
-<a href="https://medium.com/@siddhantkhare2694"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://dev.to/siddhantkcode"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
+<a href="https://medium.com/@dhruvabhattacharya130102/dhruva-bhattacharya-4fc7917e8307"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://dev.to/dhruvaop"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
 
 ### 🔭 **Technology Stack**
 
