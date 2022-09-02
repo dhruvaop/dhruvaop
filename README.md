@@ -18,7 +18,7 @@ and try to be happy in your life I believe every day is new day to be more produ
 <br>
 
 #### All my work life at one place:
-<a href="https://peerlist.io/dhruvaop"><img height=100 src="https://github.com/dhruvaop/dhruvaop/blob/ninjas/logo.png"/></a>
+<a href="https://peerlist.io/dhruvaop"><img align='centre' src="https://github.com/dhruvaop/dhruvaop/blob/ninjas/logo.png" width="200%" height="200%"   alt="Peerlist" class="center"/></a>
 
 <br>
 
