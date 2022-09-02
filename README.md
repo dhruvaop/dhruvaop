@@ -62,7 +62,7 @@ and try to be happy in your life I believe every day is new day to be more produ
 
 <img height=23 src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&style=flat&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&style=flat&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&style=flat&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&style=flat&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&style=flat&logoColor=white">
 
-[![wakatime](https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg)](https://wakatime.com/@58573df6-0225-498a-8fdc-fefd0c13bb75)
+[![wakatime](https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg)](https://wakatime.com/@dhruvaop)
 
 - 🔭 I’m currently working on ... Self
 - 🌱 I’m currently learning to manage my time and be productive.
