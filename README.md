@@ -171,8 +171,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"></p>
 
 <details>
-<summary>More Details</summary>
-<br>
+
 
 ---
 
