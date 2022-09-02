@@ -15,6 +15,14 @@ I think no matter how hard the past is, but make you present a special one becau
 and try to be happy in your life I believe every day is new day to be more productive and charge up to acquire new skills chance to begin again and be a better version of myself.
 [![Website](https://img.shields.io/badge/2🌟coder-CodeChef-green?style=flat-square)](https://google.com)
 
+<br>
+
+#### All my work life at one place:
+<a href="https://peerlist.io/dhruvaop"><img height=44 src="https://github.com/dhruvaop/dhruvaop/blob/ninjas/Screenshot%20(25).png"/></a>
+
+<br>
+
+
 ### **My Portfolio**:
 
 <a href="https://dhruvabhattacharya.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Firefox&style=flat&logoColor=#FF7139"/></a>
