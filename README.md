@@ -168,7 +168,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- github stats and graph -->
 <h1 align="center">
-<img height="30"src="GIF/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="GIF/sparkling-stars.gif">
+<img height="30"src="sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="sparkling-stars.gif">
 </h1>
 
 <p align="center">
