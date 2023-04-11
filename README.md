@@ -134,6 +134,7 @@ You can click the Preview link to take a look at your changes.
 [![Celonis Foundations](https://images.credly.com/size/110x110/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png)](https://www.credly.com/badges/981e803b-b007-4a23-b11a-a7fbd14da1c1/public_url "Celonis Foundation")
 [![CyberOps Associate](https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](https://www.credly.com/badges/79244e14-0065-4615-9d68-e5c4ced28b31/public_url "CyberOps Associate")
 [![DevNet Associate](https://images.credly.com/size/110x110/images/35985f2b-38d6-4b6f-8e63-42b17d3b5c69/DEVASC_Learning_Badge.png)](https://www.credly.com/badges/79244e14-0065-4615-9d68-e5c4ced28b31/public_url "DevNet Associate")
+[![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/8dae3ee9-8430-490c-bf43-cab051df71a1/public_url "Cybersecurity Essentials")
 
 
 <!-- ![UC-3ca67b95-4c8d-492a-8f25-a50bfff235b8](https://udemy-certificate.s3.amazonaws.com/image/UC-5487b348-de51-40bf-b20f-e7a490bda5c1.jpg?v=1621712851000) -->
