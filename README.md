@@ -1,5 +1,3 @@
-https://github.com/dhruvaop/dhruvaop/assets/71749153/576fc88f-db0e-4767-a81a-033ff71a2fb8
-
 <img align='centre' src="https://user-images.githubusercontent.com/77020164/153806717-dff02c3c-e022-4af5-8140-abc022be9c02.png"  width="200%" height="500%"   alt="Coder" class="center">
 
 <centre>
@@ -200,4 +198,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-
+https://github.com/dhruvaop/dhruvaop/assets/71749153/576fc88f-db0e-4767-a81a-033ff71a2fb8
