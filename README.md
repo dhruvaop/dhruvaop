@@ -18,7 +18,9 @@ and try to be happy in your life I believe every day is new day to be more produ
 [![Website](https://img.shields.io/badge/2🌟coder-CodeChef-green?style=flat-square)](https://google.com)
 
 <br>
+
 </p>
+
 ## All DSA Badges @LeetCode
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
