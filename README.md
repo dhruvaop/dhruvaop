@@ -16,7 +16,6 @@ I think no matter how hard the past is, but make you present a special one becau
 and try to be happy in your life I believe every day is new day to be more productive and charge up to acquire new skills chance to begin again and be a better version of myself.
 [![Website](https://img.shields.io/badge/2🌟coder-CodeChef-green?style=flat-square)](https://google.com)
 
-<a><img align="right" src="MyLCGoldBedge.gif" width="300" height="300" /></a>
 <h2 align="center"><b>Front-End Dev CodeBrahma, SIH Finalist 2022 💯 and Passionate About Crafting Efficient Code 🚀 Alibaba Cloud Low-Code Development Winner & 600+ problems & 1700+ contest rating on LeetCode</b></h2> 
 
 <br>
@@ -24,7 +23,7 @@ and try to be happy in your life I believe every day is new day to be more produ
 </p>
 
 ## All DSA Badges @LeetCode
-
+<a><img align="right" src="MyLCGoldBedge.gif" width="300" height="300" /></a>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
