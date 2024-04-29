@@ -173,17 +173,20 @@ You can click the Preview link to take a look at your changes.
 [![AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://images.credly.com/size/110x110/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png)](https://www.credly.com/badges/1f9d0fdc-a522-4208-9c06-85e6a1c3f9a7/public_url "AWS Academy Graduate - AWS Academy Machine Learning Foundations")
 [![Introduction to IoT](https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](https://www.credly.com/badges/7a8b1b86-d978-48cd-9b9c-52d563051384/public_url "Introduction to IoT")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/717c6e54-8452-4399-b065-8640f076b0f9/public_url "Introduction to Cybersecurity")
-[<img src="https://i.postimg.cc/cC3qGyKd/java-basic-certificate-page-0001.jpg" width="110" height="110">](https://www.hackerrank.com/certificates/032df27b67ec)
 [![Celonis Foundations](https://images.credly.com/size/110x110/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png)](https://www.credly.com/badges/981e803b-b007-4a23-b11a-a7fbd14da1c1/public_url "Celonis Foundation")
 [![CyberOps Associate](https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](https://www.credly.com/badges/79244e14-0065-4615-9d68-e5c4ced28b31/public_url "CyberOps Associate")
 [![DevNet Associate](https://images.credly.com/size/110x110/images/35985f2b-38d6-4b6f-8e63-42b17d3b5c69/DEVASC_Learning_Badge.png)](https://www.credly.com/badges/79244e14-0065-4615-9d68-e5c4ced28b31/public_url "DevNet Associate")
 [![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/8dae3ee9-8430-490c-bf43-cab051df71a1/public_url "Cybersecurity Essentials")
 [![AWS Academy Graduate - AWS Academy Machine Learning for Natural Language Processing](https://images.credly.com/size/110x110/images/199ec218-422f-4663-bddd-bcea8f2041f6/image.png)](https://www.credly.com/badges/4ceb154d-c4aa-4f87-9310-51e8dbe27b30/public_url "AWS Academy Graduate - AWS Academy Machine Learning for Natural Language Processing")
+[<img src="https://i.postimg.cc/cC3qGyKd/java-basic-certificate-page-0001.jpg" width="110" height="110">](https://www.hackerrank.com/certificates/032df27b67ec)
+[<img src="https://i.postimg.cc/kgnHftyJ/python-basic-certificate-page-0001.jpg" width="110 height="110>](https://www.hackerrank.com/certificates/44f6efc2f573)
+
 
 
 <!-- ![UC-3ca67b95-4c8d-492a-8f25-a50bfff235b8](https://udemy-certificate.s3.amazonaws.com/image/UC-5487b348-de51-40bf-b20f-e7a490bda5c1.jpg?v=1621712851000) -->
 <!--END_SECTION:badges-->
 
+<br>
 
 <h2> <summary align="center"> GitHub Trophies 🏆</summary></h2>
 <p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"></p>
