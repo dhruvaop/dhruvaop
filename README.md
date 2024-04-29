@@ -17,6 +17,16 @@ and try to be happy in your life I believe every day is new day to be more produ
 
 <br>
 
+## ⭐ Summarized My All Achievements 🎉
+
+| 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
+|------------------------------------|----------------------------------------|
+| 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
+| 💥 572DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
+| 💥 Winner of Alibaba Cloud Low Code Development | ⭐ 5K+ Followers on LinkedIn |
+| 💥 500DaysOfCode+ on @GeeksForGeeks | ⭐ 1M+ Views on LinkedIn |
+
+
 ### All my work life at one place:
 <a href="https://peerlist.io/dhruvaop">
 <img align='centre' src="https://github.com/dhruvaop/dhruvaop/blob/ninjas/logo.png" width="15%" height="15%" alt="Peerlist" class="center"/></a>
