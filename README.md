@@ -134,9 +134,9 @@ and try to be happy in your life I believe every day is new day to be more produ
 ## 🔥 My contribution:
 <p align="center">
   <a>
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+   <img height="180" width="160" src="left.png">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvaop&theme=dark&hide_border=true"/>
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+   <img height="180" width="160" src="right.png">
 </p>
 <br/>  
 
