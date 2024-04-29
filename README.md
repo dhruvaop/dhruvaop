@@ -18,6 +18,30 @@ and try to be happy in your life I believe every day is new day to be more produ
 [![Website](https://img.shields.io/badge/2🌟coder-CodeChef-green?style=flat-square)](https://google.com)
 
 <br>
+</p>
+## All DSA Badges @LeetCode
+
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
+<ing src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/lg/2022-annual-100.png" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-12.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-11.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-03.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-09.gif" width="40px"></img> 
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2023-8.png" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-07.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2023-6.png" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-05.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-04.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-02.gif" width="40px"></img>
+
 
 ## ⭐ Summarized My All Achievements 🎉
 
