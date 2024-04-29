@@ -178,8 +178,8 @@ You can click the Preview link to take a look at your changes.
 [![DevNet Associate](https://images.credly.com/size/110x110/images/35985f2b-38d6-4b6f-8e63-42b17d3b5c69/DEVASC_Learning_Badge.png)](https://www.credly.com/badges/79244e14-0065-4615-9d68-e5c4ced28b31/public_url "DevNet Associate")
 [![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/8dae3ee9-8430-490c-bf43-cab051df71a1/public_url "Cybersecurity Essentials")
 [![AWS Academy Graduate - AWS Academy Machine Learning for Natural Language Processing](https://images.credly.com/size/110x110/images/199ec218-422f-4663-bddd-bcea8f2041f6/image.png)](https://www.credly.com/badges/4ceb154d-c4aa-4f87-9310-51e8dbe27b30/public_url "AWS Academy Graduate - AWS Academy Machine Learning for Natural Language Processing")
+[<img src="https://i.postimg.cc/kgnHftyJ/python-basic-certificate-page-0001.jpg" width="110" height="110">](https://www.hackerrank.com/certificates/44f6efc2f573)
 [<img src="https://i.postimg.cc/cC3qGyKd/java-basic-certificate-page-0001.jpg" width="110" height="110">](https://www.hackerrank.com/certificates/032df27b67ec)
-[<img src="https://i.postimg.cc/kgnHftyJ/python-basic-certificate-page-0001.jpg" width="110 height="110>](https://www.hackerrank.com/certificates/44f6efc2f573)
 
 
 
