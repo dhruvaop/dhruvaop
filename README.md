@@ -25,6 +25,7 @@ and try to be happy in your life I believe every day is new day to be more produ
 ## All DSA Badges @LeetCode
 
 <a><img align="right" src="MyLCGoldBedge.gif" width="300" height="300" /></a>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
