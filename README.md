@@ -46,6 +46,7 @@ and try to be happy in your life I believe every day is new day to be more produ
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-05.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-04.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-02.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="40px"></img>
 
 
 ## ⭐ Summarized My All Achievements 🎉
