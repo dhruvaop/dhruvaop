@@ -67,7 +67,6 @@ and try to be happy in your life I believe every day is new day to be more produ
 
 <br>
 
-[![@dhruvaop's Holopin board](https://holopin.io/api/user/board?user=dhruvaop)](https://holopin.io/@dhruvaop)
 [![An image of @dhruvaop's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvaop)](https://holopin.io/@dhruvaop)
 
 ### **My Portfolio**:
