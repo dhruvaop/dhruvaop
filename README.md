@@ -62,17 +62,7 @@ I’m actively looking for SDE roles where I can:
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-02.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="40px"></img>
-
-
-
-## ⭐ Summarized My All Achievements 🎉
-
-| 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
-|------------------------------------|----------------------------------------|
-| 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
-| 💥 572DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
-| 💥 Winner of Alibaba Cloud Low Code Development | ⭐ 5K+ Followers on LinkedIn |
-| 💥 500DaysOfCode+ on @GeeksForGeeks | ⭐ 1M+ Views on LinkedIn |
+<img src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="40px"></img>
 
 
 ### All my work life at one place:
@@ -81,7 +71,6 @@ I’m actively looking for SDE roles where I can:
 
 <br>
 
-[![An image of @dhruvaop's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvaop)](https://holopin.io/@dhruvaop)
 
 ### **My Portfolio**:
 
