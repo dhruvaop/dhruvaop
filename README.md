@@ -91,10 +91,13 @@ I’m actively looking for SDE roles where I can:
 
 <br />
 
-[![wakatime](https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg)](https://wakatime.com/@dhruvaop)
+<p align="center">
+  <a href="https://wakatime.com/@dhruvaop">
+    <img src="https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg" alt="wakatime" />
+  </a>
+</p>
 
-<div align="center">
-# 👋 Hi, I'm Dhruva Bhattacharya
+<div align="center"
  
 ### 🔥 Software Engineer &nbsp;|&nbsp; 🤖 AI & ML Enthusiast &nbsp;|&nbsp; 😄 He/Him
  
