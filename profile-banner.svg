@@ -1,0 +1,126 @@
+<svg width="880" height="260" viewBox="0 0 880 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dhruva Bhattacharya, Backend Engineer working on Java Spring Boot systems and GenAI RAG agents">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#151924"/>
+      <stop offset="100%" stop-color="#10131B"/>
+    </linearGradient>
+    <clipPath id="cardClip"><rect x="0.5" y="0.5" width="879" height="259" rx="14"/></clipPath>
+  </defs>
+  <style>
+    .card { opacity: 0; animation: fadeIn .6s ease-out .1s forwards; }
+    .spark { stroke-dasharray: 313; stroke-dashoffset: 313; animation: draw 1.1s ease-out .5s forwards; }
+    @keyframes fadeIn { to { opacity: 1; } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, "SF Mono", "Cascadia Code", "Fira Code", Consolas, monospace; }
+    @media (prefers-reduced-motion: reduce) {
+      .card { animation: none; opacity: 1; }
+      .spark { animation: none; stroke-dashoffset: 0; }
+    }
+  </style>
+
+  <g class="card">
+    <rect x="0.5" y="0.5" width="879" height="259" rx="14" fill="url(#bgGrad)" stroke="#262B36"/>
+
+    <g stroke="#2A303C" stroke-width="1" clip-path="url(#cardClip)">
+      <line x1="24" y1="0" x2="24" y2="5"/>
+      <line x1="40" y1="0" x2="40" y2="5"/>
+      <line x1="56" y1="0" x2="56" y2="5"/>
+      <line x1="72" y1="0" x2="72" y2="5"/>
+      <line x1="88" y1="0" x2="88" y2="5"/>
+      <line x1="104" y1="0" x2="104" y2="5"/>
+      <line x1="120" y1="0" x2="120" y2="5"/>
+      <line x1="136" y1="0" x2="136" y2="5"/>
+      <line x1="152" y1="0" x2="152" y2="5"/>
+      <line x1="168" y1="0" x2="168" y2="5"/>
+      <line x1="184" y1="0" x2="184" y2="5"/>
+      <line x1="200" y1="0" x2="200" y2="5"/>
+      <line x1="216" y1="0" x2="216" y2="5"/>
+      <line x1="232" y1="0" x2="232" y2="5"/>
+      <line x1="248" y1="0" x2="248" y2="5"/>
+      <line x1="264" y1="0" x2="264" y2="5"/>
+      <line x1="280" y1="0" x2="280" y2="5"/>
+      <line x1="296" y1="0" x2="296" y2="5"/>
+      <line x1="312" y1="0" x2="312" y2="5"/>
+      <line x1="328" y1="0" x2="328" y2="5"/>
+      <line x1="344" y1="0" x2="344" y2="5"/>
+      <line x1="360" y1="0" x2="360" y2="5"/>
+      <line x1="376" y1="0" x2="376" y2="5"/>
+      <line x1="392" y1="0" x2="392" y2="5"/>
+      <line x1="408" y1="0" x2="408" y2="5"/>
+      <line x1="424" y1="0" x2="424" y2="5"/>
+      <line x1="440" y1="0" x2="440" y2="5"/>
+      <line x1="456" y1="0" x2="456" y2="5"/>
+      <line x1="472" y1="0" x2="472" y2="5"/>
+      <line x1="488" y1="0" x2="488" y2="5"/>
+      <line x1="504" y1="0" x2="504" y2="5"/>
+      <line x1="520" y1="0" x2="520" y2="5"/>
+      <line x1="536" y1="0" x2="536" y2="5"/>
+      <line x1="552" y1="0" x2="552" y2="5"/>
+      <line x1="568" y1="0" x2="568" y2="5"/>
+      <line x1="584" y1="0" x2="584" y2="5"/>
+      <line x1="600" y1="0" x2="600" y2="5"/>
+      <line x1="616" y1="0" x2="616" y2="5"/>
+      <line x1="632" y1="0" x2="632" y2="5"/>
+      <line x1="648" y1="0" x2="648" y2="5"/>
+      <line x1="664" y1="0" x2="664" y2="5"/>
+      <line x1="680" y1="0" x2="680" y2="5"/>
+      <line x1="696" y1="0" x2="696" y2="5"/>
+      <line x1="712" y1="0" x2="712" y2="5"/>
+      <line x1="728" y1="0" x2="728" y2="5"/>
+      <line x1="744" y1="0" x2="744" y2="5"/>
+      <line x1="760" y1="0" x2="760" y2="5"/>
+      <line x1="776" y1="0" x2="776" y2="5"/>
+      <line x1="792" y1="0" x2="792" y2="5"/>
+      <line x1="808" y1="0" x2="808" y2="5"/>
+      <line x1="824" y1="0" x2="824" y2="5"/>
+      <line x1="840" y1="0" x2="840" y2="5"/>
+      <line x1="856" y1="0" x2="856" y2="5"/>
+    </g>
+
+    <text x="40" y="34" class="mono" font-size="11" fill="#7A8090" letter-spacing="1">// dhruva.spec</text>
+
+    <text x="40" y="72" font-size="28" font-weight="700" fill="#ECEAE4" letter-spacing="0.3">DHRUVA BHATTACHARYA</text>
+
+    <text x="40" y="96" class="mono" font-size="12.5" fill="#9AA0AC">Backend Engineer &#183; Java / Spring Boot &#183; GenAI &amp; RAG</text>
+
+    <text x="40" y="130" font-size="14.5" fill="#D8D6CF">Turns 1000ms APIs into 150ms APIs,</text>
+    <text x="40" y="150" font-size="14.5" fill="#D8D6CF">and slow ideas into shipped AI agents.</text>
+
+    <text x="40" y="184" class="mono" font-size="11.5" fill="#D9A05B" letter-spacing="0.4">Java &#183; Spring Boot &#183; Microservices &#183; RAG &#183; Azure</text>
+
+    <line x1="40" y1="200" x2="470" y2="200" stroke="#262B36"/>
+
+    <circle cx="44" cy="220" r="3" fill="#D9A05B"/>
+    <text x="54" y="224" class="mono" font-size="11" fill="#8A8F98">Immediate joiner, open to backend / GenAI roles</text>
+
+    <line x1="495" y1="34" x2="495" y2="228" stroke="#262B36"/>
+
+    <text x="520" y="34" class="mono" font-size="11" fill="#7A8090" letter-spacing="1.5">METRICS</text>
+    <line x1="520" y1="44" x2="840" y2="44" stroke="#262B36"/>
+
+    <text x="520" y="56" class="mono" font-size="9" fill="#7A8090">1000ms</text>
+    <text x="840" y="112" text-anchor="end" class="mono" font-size="9" font-weight="700" fill="#D9A05B">150ms</text>
+    <path class="spark" d="M525,60 C 620,64 720,80 835,98" fill="none" stroke="#D9A05B" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="525" cy="60" r="2.5" fill="#7A8090"/>
+    <circle cx="835" cy="98" r="3" fill="#D9A05B"/>
+    <text x="520" y="124" class="mono" font-size="9" fill="#5F6470" letter-spacing="0.5">P95 API LATENCY</text>
+
+    <line x1="520" y1="136" x2="840" y2="136" stroke="#262B36"/>
+
+    <text x="520" y="160" class="mono" font-size="11" fill="#8A8F98">THROUGHPUT</text>
+    <text x="840" y="160" text-anchor="end" class="mono" font-size="14" font-weight="700" fill="#ECEAE4">+40%</text>
+    <line x1="520" y1="169" x2="840" y2="169" stroke="#1D212B"/>
+
+    <text x="520" y="186" class="mono" font-size="11" fill="#8A8F98">INCIDENTS</text>
+    <text x="840" y="186" text-anchor="end" class="mono" font-size="14" font-weight="700" fill="#ECEAE4">&#8722;18%</text>
+    <line x1="520" y1="195" x2="840" y2="195" stroke="#1D212B"/>
+
+    <text x="520" y="212" class="mono" font-size="11" fill="#8A8F98">UPTIME</text>
+    <text x="840" y="212" text-anchor="end" class="mono" font-size="14" font-weight="700" fill="#ECEAE4">99.9%</text>
+    <line x1="520" y1="221" x2="840" y2="221" stroke="#1D212B"/>
+
+    <text x="520" y="238" class="mono" font-size="11" fill="#8A8F98">LEETCODE</text>
+    <text x="840" y="238" text-anchor="end" class="mono" font-size="14" font-weight="700" fill="#ECEAE4">900+</text>
+  </g>
+</svg>
