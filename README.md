@@ -102,13 +102,13 @@ I’m actively looking for SDE roles where I can:
 <br>
 🌱&nbsp; Currently learning to manage my time and be more productive
 <br>
-👀&nbsp; Interested in `</>` Competitive Programming
+👀&nbsp; Interested in </> Competitive Programming
 <br>
 💞️&nbsp; Looking to collaborate on AI-related Open Source Projects
  
 <br><br>
  
-<img src="https://komarev.com/ghpvc/?username=dhruvabhattacharya&style=flat-square&color=blueviolet" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=dhruvaop&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
 
 
