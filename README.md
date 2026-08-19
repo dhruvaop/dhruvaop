@@ -36,6 +36,10 @@ I’m actively looking for SDE roles where I can:
 <h2 align="center"><b>Backend Engineer @ Tata Consulataqcy Services Alibaba Cloud Low-Code Development Winner & 600+ problems & 1700+ contest rating on LeetCode</b></h2> 
 
 <br>
+<p align="center">
+  <img src="./profile-banner.svg" width="100%" alt="Now: building Scalable Distributed Systems at TCS, contributing to scalable backend platforms, based in Indore" />
+</p>
+<br>
 
 </p>
 
