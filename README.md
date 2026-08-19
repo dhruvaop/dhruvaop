@@ -131,92 +131,6 @@ and try to be happy in your life I believe every day is new day to be more produ
 <!-- in short tech entusiast with passion for web development means username in below README.md -->
 [![Dhruva's github stats](https://github-readme-stats.vercel.app/api?username=dhruvaop&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-## ❤ Visitors Count 🗠:
-<p align = "center">
-  <img src="https://profile-counter.glitch.me/dhruvaop/count.svg" />
-</p>
-
-<!---img src="https://profile-counter.glitch.me/{USER_NAME}/count.svg" /--->
-## 🔥 My contribution:
-<p align="center">
-  <a>
-   <img height="180" width="160" src="left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvaop&theme=dark&hide_border=true"/>
-   <img height="180" width="160" src="right.png">
-</p>
-<br/>  
-
-## 🔥 Languages and Tools :
-<p align="centre"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvaop&show_icons=true&locale=en&layout=compact" alt="dhruvaop" /></p>
-
-<!---
-dhruvaop/dhruvaop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
->
-
-
-## ✨Connect with me :
-<p align="centre">
-<a href="https://www.linkedin.com/in/dhruva-bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
-<a href="https://twitter.com/DhruvaBhattach2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kinshuk_1729" height="30" width="40" /></a>
-<a href="https://www.facebook.com/dhruva130102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bhattacharyadhruva.cjs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insane_engineer_1729" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhruvabhattacha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kinshuk2002_king" height="30" width="40" /></a>
-<a href="https://leetcode.com/dhruvabhattacharya130102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kinshuk-code-1729" height="30" width="40" /></a>
-</p>
-
-<br>
-
-## ✨ Certifications ✨ :
-
-<!--START_SECTION:badges-->
-
-[![AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://images.credly.com/size/110x110/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png)](https://www.credly.com/badges/1f9d0fdc-a522-4208-9c06-85e6a1c3f9a7/public_url "AWS Academy Graduate - AWS Academy Machine Learning Foundations")
-[![Introduction to IoT](https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](https://www.credly.com/badges/7a8b1b86-d978-48cd-9b9c-52d563051384/public_url "Introduction to IoT")
-[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/717c6e54-8452-4399-b065-8640f076b0f9/public_url "Introduction to Cybersecurity")
-[![Celonis Foundations](https://images.credly.com/size/110x110/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png)](https://www.credly.com/badges/981e803b-b007-4a23-b11a-a7fbd14da1c1/public_url "Celonis Foundation")
-[![CyberOps Associate](https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](https://www.credly.com/badges/79244e14-0065-4615-9d68-e5c4ced28b31/public_url "CyberOps Associate")
-[![DevNet Associate](https://images.credly.com/size/110x110/images/35985f2b-38d6-4b6f-8e63-42b17d3b5c69/DEVASC_Learning_Badge.png)](https://www.credly.com/badges/79244e14-0065-4615-9d68-e5c4ced28b31/public_url "DevNet Associate")
-[![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/8dae3ee9-8430-490c-bf43-cab051df71a1/public_url "Cybersecurity Essentials")
-[![AWS Academy Graduate - AWS Academy Machine Learning for Natural Language Processing](https://images.credly.com/size/110x110/images/199ec218-422f-4663-bddd-bcea8f2041f6/image.png)](https://www.credly.com/badges/4ceb154d-c4aa-4f87-9310-51e8dbe27b30/public_url "AWS Academy Graduate - AWS Academy Machine Learning for Natural Language Processing")
-[<img src="https://i.postimg.cc/kgnHftyJ/python-basic-certificate-page-0001.jpg" width="110" height="110">](https://www.hackerrank.com/certificates/44f6efc2f573)
-[<img src="https://i.postimg.cc/cC3qGyKd/java-basic-certificate-page-0001.jpg" width="110" height="110">](https://www.hackerrank.com/certificates/032df27b67ec)
-
-
-
-<!-- ![UC-3ca67b95-4c8d-492a-8f25-a50bfff235b8](https://udemy-certificate.s3.amazonaws.com/image/UC-5487b348-de51-40bf-b20f-e7a490bda5c1.jpg?v=1621712851000) -->
-<!--END_SECTION:badges-->
-
-<br>
-
-<h2> <summary align="center"> GitHub Trophies 🏆</summary></h2>
-<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"></p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhruvaop&theme=gruvbox"/>
-  </a>
-</p>
-
-
-## Latest blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!-- This section you create this variables that are used above -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!-- This section you create this variables that are used above -->
-[facebook]: https://www.facebook.com/dhruva130102/
-[twitter]: https://twitter.com/DhruvaBhattach2
-[linkedin]: https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/
-
-
-<a href="https://github.com/dhruvaop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvaop&theme=light&hide_langs_below=1" />
-</a>
                                                                                                                                   
 ## Watch a 🐍 eating my contribution graph
 ![github contribution grid snake animation](https://raw.githubusercontent.com/dhruvaop/dhruvaop/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
@@ -247,7 +161,5 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-
-
 
 https://github.com/dhruvaop/dhruvaop/assets/71749153/4a49d2a6-a86e-47ed-9e1f-6d561727d714
