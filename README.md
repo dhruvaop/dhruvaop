@@ -96,13 +96,13 @@ I’m actively looking for SDE roles where I can:
 ### 🔥 Software Engineer &nbsp;|&nbsp; 🤖 AI & ML Enthusiast &nbsp;|&nbsp; 😄 He/Him
  
 <br>
-🔭&nbsp; Currently working on # RAG & AI Agents
+🔭&nbsp; Currently working on RAG & AI Agents
 <br>
-🌱&nbsp; Currently exploring and learning # AI & Machine Learning
+🌱&nbsp; Currently exploring and learning AI & Machine Learning
 <br>
 🌱&nbsp; Currently learning to manage my time and be more productive
 <br>
-👀&nbsp; Interested in # `</>` Competitive Programming
+👀&nbsp; Interested in `</>` Competitive Programming
 <br>
 💞️&nbsp; Looking to collaborate on AI-related Open Source Projects
  
