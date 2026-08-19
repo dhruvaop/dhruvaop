@@ -1,3 +1,9 @@
+
+
+
+
+## Hi <developers/>! <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="29px">, I am <a href="https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/">Dhruva Bhattacharya</a> 👨‍💻 and 👨‍🎓
+
 <p align="center">
   <img src="./now.svg" width="100%" alt="Now: building Scalable Distributed Systems at TCS, contributing to scalable backend platforms, based in Indore" />
 </p>
@@ -5,9 +11,6 @@
 <centre>
 <a href="https://www.buymeacoffee.com/dhruvabhatj" target="_blank"><img align='centre' src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
   </centre>
-
-## Hi <developers/>! <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="29px">, I am <a href="https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/">Dhruva Bhattacharya</a> 👨‍💻 and 👨‍🎓
-
 
 ## About Me ✍
 I build backend systems that are designed to scale, not just work.
