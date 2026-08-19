@@ -90,14 +90,26 @@ I’m actively looking for SDE roles where I can:
 
 [![wakatime](https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg)](https://wakatime.com/@dhruvaop)
 
-- 🔭 I’m currently working on ... Self
-- 🌱 I’m currently learning to manage my time and be productive.
-- 👋 Hi, I’m DHRUVA BHATTACHARYA
-- 👀 I’m interested in ... competative programming 
-- 🌱 I’m currently learning ... c/c++
-- 💞️ I’m looking to collaborate on ... Open Source and AI related Project
-- 🔥 WEB DEVELOPMENT
-- 😄 Pronouns: ...He/Him
+<div align="center">
+# 👋 Hi, I'm Dhruva Bhattacharya
+ 
+### 🔥 Software Engineer &nbsp;|&nbsp; 🤖 AI & ML Enthusiast &nbsp;|&nbsp; 😄 He/Him
+ 
+<br>
+🔭&nbsp; Currently working on **RAG & AI Agents**
+<br>
+🌱&nbsp; Currently exploring and learning **AI & Machine Learning**
+<br>
+🌱&nbsp; Currently learning to manage my time and be more productive
+<br>
+👀&nbsp; Interested in **`</>` Competitive Programming**
+<br>
+💞️&nbsp; Looking to collaborate on **AI-related Open Source Projects**
+ 
+<br><br>
+ 
+<img src="https://komarev.com/ghpvc/?username=dhruvabhattacharya&style=flat-square&color=blueviolet" alt="Profile views" />
+</div>
 
 
                                                                                                                                   
