@@ -10,10 +10,24 @@
 
 
 ## About Me ✍
-I'm Dhruva Bhattacharya pursuing Computer Science Engineering.
-I'm a quick and passionate learner and Characterized as a bridge-builder able to quickly build strong and effective problem-solving skills.I always passionate about understanding the core concepts behind different popular Technological Fields.
-I think no matter how hard the past is, but make you present a special one because you can't go back and change the beginning but you can start where you are and always bring a change in yourself begin again...
-and try to be happy in your life I believe every day is new day to be more productive and charge up to acquire new skills chance to begin again and be a better version of myself.
+I build backend systems that are designed to scale, not just work.
+ 
+Currently a Software Engineer at Tata Consultancy Services, I specialize in Java + Spring Boot, building REST APIs and distributed backend services with a focus on performance, reliability, and clean architecture.
+ 
+I’ve solved 600+ DSA problems (LeetCode 1700+), which shapes how I approach system design—breaking down complex problems into efficient, scalable solutions.
+ 
+My work includes:
+ 
+ • Designing backend services and APIs 
+ • Working with microservices and distributed systems 
+ • Exploring Generative AI integrations into real-world applications 
+ 
+I’m actively looking for SDE roles where I can:
+ 
+ • Build high-scale backend systems 
+ • Work on performance-critical applications 
+ • Contribute to strong engineering teams
+ 
 [![Website](https://img.shields.io/badge/2🌟coder-CodeChef-green?style=flat-square)](https://google.com)
 
 <h2 align="center"><b>Front-End Dev CodeBrahma, SIH Finalist 2022 💯 and Passionate About Crafting Efficient Code 🚀 Alibaba Cloud Low-Code Development Winner & 600+ problems & 1700+ contest rating on LeetCode</b></h2> 
