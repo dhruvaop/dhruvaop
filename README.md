@@ -39,6 +39,7 @@ I’m actively looking for SDE roles where I can:
 ## All DSA Badges @LeetCode
 
 <a><img align="right" src="MyLCGoldBedge.gif" width="300" height="300" /></a>
+<img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="40px"></img>
