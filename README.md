@@ -30,7 +30,7 @@ I’m actively looking for SDE roles where I can:
  
 [![Website](https://img.shields.io/badge/2🌟coder-CodeChef-green?style=flat-square)](https://google.com)
 
-<h2 align="center"><b>Front-End Dev CodeBrahma, SIH Finalist 2022 💯 and Passionate About Crafting Efficient Code 🚀 Alibaba Cloud Low-Code Development Winner & 600+ problems & 1700+ contest rating on LeetCode</b></h2> 
+<h2 align="center"><b>Backend Engineer @ Tata Consulataqcy Services Alibaba Cloud Low-Code Development Winner & 600+ problems & 1700+ contest rating on LeetCode</b></h2> 
 
 <br>
 
