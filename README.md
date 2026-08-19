@@ -142,7 +142,7 @@ and try to be happy in your life I believe every day is new day to be more produ
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvaop&days=30&bg_color=00000000&color=8b949e&line=2ea043&point=2ea043&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvaop&days=1000&bg_color=00000000&color=8b949e&line=2ea043&point=2ea043&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
 
 <hr>
