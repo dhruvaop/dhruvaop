@@ -81,7 +81,6 @@ I’m actively looking for SDE roles where I can:
 <a href="https://medium.com/@dhruvabhattacharya130102/dhruva-bhattacharya-4fc7917e8307"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://dev.to/dhruvaop"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
 
-### 🔭 **Technology Stack**
 
 <h3 align="center">working set</h3>
 
